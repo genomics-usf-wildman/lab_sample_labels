@@ -8,4 +8,7 @@ label format (See `sample_labels.tex`).
 If additional projects use this code, we'll either fork it into
 branches, or make it more general.
 
+## Example Label
+
+This is an example of the type of label created:
 ![Example Label](example_label.png)
