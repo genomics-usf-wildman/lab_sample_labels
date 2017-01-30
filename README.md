@@ -10,5 +10,4 @@ branches, or make it more general.
 
 ## Example Label
 
-This is an example of the type of label created:
 ![Example Label](example_label.png)
